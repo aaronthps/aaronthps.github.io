@@ -57,7 +57,7 @@ a, .linkbox a:hover {
 }
 
 a:hover, #content a:visited {
-  color: #456478;
+  color: #871a1c;
 }
 
 a img, #collage .search_form td, #requests .search_form td, #reportsv2 #reportform.create_form .layout td, #requests .box.box_votes td, #upload #whmf_offer, .filter_torrents .cat_list, .search_form .layout td {
@@ -2479,10 +2479,10 @@ table[id^="filter_"] textarea, form[id^="filter_form"] input, form[id^="filter_f
 
 /* FL is good */
 a[href$="usetoken=1"] {
-  color: #33c9e7 !important;
+  color: #e73342 !important;
 } 
 a[href$="usetoken=1"]:visited {
-  color: #456478 !important;
+  color: #871a1c !important;
 }
 
 /* This will definitely break some nice custom titles; feel free to blame the staff for handing out xx-large CTs */ 
@@ -2674,7 +2674,7 @@ span[style*="color: green"], #log_table .log_upload {
   color: #C3272B !important;
 }
 .changelog.tags a:hover, .changelog.tags a:visited {
-  color: #456478 !important;
+  color: #871a1c !important;
 }
 .changelog.tags a:not(:last-of-type):after { 
   content: ',';
